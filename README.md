@@ -1,7 +1,7 @@
 # Volume-control-using-hand-gesture-using-python-and-openCv
 Here we are trying to process a video so that we can control volume of device with help of camera using the tips our thumb and index finger.
 
-https://github.com/mohamedezzeldeenhassanmohamed/Human_Computer_Interaction_Task/assets/94178842/281a2b31-6673-479a-8ce6-e6e67f9bcff1
+
 
 # Things used in this project
 
